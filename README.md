@@ -1,2 +1,2 @@
 # toolchain
-quecpython Tools
+Toolchain to compile HeliosSDK.
